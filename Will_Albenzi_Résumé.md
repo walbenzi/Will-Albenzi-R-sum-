@@ -11,12 +11,12 @@
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ##Experience
-**Linux Systems Architect-** *Fresenius Medical Care, June 2011 – Current*
-Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines. Designed the systems to automatically produce and test the work as it was being done.
-*Special Projects*
-Build and Integration System – Advocate and Implement Jenkins CI server to automatically build code, remaster ISO files, spawn Virtual Machines from templates, to run integration tests against newly built code.
-Dialysis Machine OS – Designed the improvements for a Dialysis Machine OS including a 200% increase in application speed compared to the previous version, the ability for a user to factory reset to a known good configuration, the ability to rapidly and efficiently download images, and improvements in security.
-QA – Worked with QA to integrate automated tools into their work flow.
+**Linux Systems Architect-** *Fresenius Medical Care, June 2011 – Current*  
+Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines. Designed the systems to automatically produce and test the work as it was being done.  
+*Special Projects*  
+Build and Integration System – Advocate and Implement Jenkins CI server to automatically build code, remaster ISO files, spawn Virtual Machines from templates, to run integration tests against newly built code.  
+Dialysis Machine OS – Designed the improvements for a Dialysis Machine OS including a 200% increase in application speed compared to the previous version, the ability for a user to factory reset to a known good configuration, the ability to rapidly and efficiently download images, and improvements in security.  
+QA – Worked with QA to integrate automated tools into their work flow.  
 
 **Linux Server Administrator -** *Tyco International, December 2009 – September 2011*
 Managed Linux Systems across three continents. Coordinated timely support for business activities across multiple departments. Automated many features of administration and implemented enterprise wide monitoring.
