@@ -1,13 +1,13 @@
 #William Albenzi - Linux Systems Architect
 <will@albenzi.com>
 ##Technical Skills
-Linux Distributions: RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
-Windows OS: Windows Server 2003 and 2008, Windows XP, Windows 7
-Virtualization: VMWare ESX, ESXi, VirtualBox, and VirtualPC
-Services: DHCP, Active Directory, LDAP, DNS/BIND, NFS, FTP, Samba, SMTP, CFEngine for Configuration Control, Nagios for System Monitoring, Syslog, SELinux
-Networking: Cisco, Dell, HP, and Netgear switches and routers.
-Build Environment Service: Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion
-Backups: Symantec Backup Exec, HP Data Protector, AMANDA
++Linux Distributions: RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
++Windows OS: Windows Server 2003 and 2008, Windows XP, Windows 7
++Virtualization: VMWare ESX, ESXi, VirtualBox, and VirtualPC
++Services: DHCP, Active Directory, LDAP, DNS/BIND, NFS, FTP, Samba, SMTP, CFEngine for Configuration Control, Nagios for System Monitoring, Syslog, SELinux
++Networking: Cisco, Dell, HP, and Netgear switches and routers.
++Build Environment Service: Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion
++Backups: Symantec Backup Exec, HP Data Protector, AMANDA
 ##Experience
 Linux Systems Architect- Fresenius Medical Care, June 2011 – Current
 Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines. Designed the systems to automatically produce and test the work as it was being done.
