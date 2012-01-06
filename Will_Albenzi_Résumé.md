@@ -11,7 +11,7 @@
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ##Experience
-**Linux Systems Architect-** *Fresenius Medical Care, June 2011 – Current*  
+###**Linux Systems Architect-** *Fresenius Medical Care, June 2011 – Current*  
 Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines. Designed the systems to automatically produce and test the work as it was being done.  
 *Special Projects*  
 Build and Integration System – Advocate and Implement Jenkins CI server to automatically build code, remaster ISO files, spawn Virtual Machines from templates, to run integration tests against newly built code.  
@@ -19,7 +19,7 @@ Dialysis Machine OS – Designed the improvements for a Dialysis Machine OS incl
 QA – Worked with QA to integrate automated tools into their work flow.  
 
 **Linux Server Administrator -** *Tyco International, December 2009 – September 2011*  
-Managed Linux Systems across three continents. Coordinated timely support for business activities across multiple departments. Automated many features of administration and implemented enterprise wide monitoring.
+Managed Linux Systems across three continents. Coordinated timely support for business activities across multiple departments. Automated many features of administration and implemented enterprise wide monitoring.  
 *Special Projects*  
 Redesign Build System – Lead two software developers to implement a new build system with input from all key stakeholders.  
 LAN/WAN QA – Worked with QA and IT to design and implement test cases that spanned continents  
@@ -27,7 +27,7 @@ Internal Classes – Implemented and taught technology classes to dozens of corp
 IT Automation – Selected, implemented and maintained cfengine to automate installations and self-healing capabilities.  
 
 **IT / Network Security -** *ViaSat, September 2006 – August 2010*  
-Deployed and managed multiple networks in compliance with all government, military, and corporate regulatory requirements. Each network was highly secure, with centralized authentication and monitoring. Each network had a mix of Windows, Linux and networking equipment.
+Deployed and managed multiple networks in compliance with all government, military, and corporate regulatory requirements. Each network was highly secure, with centralized authentication and monitoring. Each network had a mix of Windows, Linux and networking equipment.  
 *Special Projects*  
 Unified Logon – created a system where Linux and Windows used the same logon information.  
 Created a Automated Post Installation configurator - Solved the problem of rapid Linux deployments across diverse hardware and environments  
@@ -35,7 +35,7 @@ Integrated LANs into WANs - Planned and Executed the integration of several clas
 System Test Support – Provided Test support for ViaSat's family of Inline Network Encryptors: the KG-250 and the KG-255 as well as the MIDS LVTs  
 
 **Security Test Engineer -** *ViaSat, February 2003 – September 2006*  
-Worked for ViaSat as a Test Engineer for their family of Inline Network Encryptors: the KG-250 and the KG-255. Specialized in security analysis. Derived testing requirements from customer specifications, developed test cases to exercise those requirements build environments to support those test cases and utilized Linux's capabilities to provide for an automated testing.
+Worked for ViaSat as a Test Engineer for their family of Inline Network Encryptors: the KG-250 and the KG-255. Specialized in security analysis. Derived testing requirements from customer specifications, developed test cases to exercise those requirements build environments to support those test cases and utilized Linux's capabilities to provide for an automated testing.  
 *Special Projects*  
 Requirements Database – Built a custom requirements tracking and test report database. This enabled more informed granular decision making for product architects.  
 
