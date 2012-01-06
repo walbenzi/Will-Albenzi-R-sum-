@@ -1,5 +1,6 @@
 #William Albenzi - Linux Systems Architect
-<will@albenzi.com>
+email: <will@albenzi.com>, mobile: 603-508-7512, <http://www.linkedin.com/in/walbenzi>, <http://albenzi.com>  
+17 National Street, Nashua, NH 03060
 
 ##Technical Skills
 + **Linux Distributions:** RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
@@ -11,7 +12,7 @@
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ##Experience
-###**Linux Systems Architect-** *Fresenius Medical Care, June 2011 – Current*  
+**Linux Systems Architect -** *Fresenius Medical Care, June 2011 – Current*  
 Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines. Designed the systems to automatically produce and test the work as it was being done.  
 *Special Projects*  
 Build and Integration System – Advocate and Implement Jenkins CI server to automatically build code, remaster ISO files, spawn Virtual Machines from templates, to run integration tests against newly built code.  
