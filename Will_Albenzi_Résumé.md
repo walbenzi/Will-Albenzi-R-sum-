@@ -12,7 +12,7 @@
 
 ##Experience
 **Linux Systems Architect -** *Fresenius Medical Care, June 2011 – Current*  
-Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines. Designed the systems to automatically produce and test the work as it was being done.  
+Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines, which provide 21.5 million treatments per year. Designed the systems to automatically produce and test the work as it was being done.  
 *Special Projects*  
 Build and Integration System – Advocate and Implement Jenkins CI server to automatically build code, remaster ISO files, spawn Virtual Machines from templates, to run integration tests against newly built code.  
 Dialysis Machine OS – Designed the improvements for a Dialysis Machine OS including a 200% increase in application speed compared to the previous version, the ability for a user to factory reset to a known good configuration, the ability to rapidly and efficiently download images, and improvements in security.  
