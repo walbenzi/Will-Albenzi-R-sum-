@@ -45,10 +45,7 @@ Supported the needs of users running WindowsXP with Microsoft Office and Lotus N
 **Network Engineer -** *United States Marine Corps, July 2000 – March 2002*  
 Led a small team which managed 15 Central Offices with heterogeneous equipment including Cisco, Marconi, and 3Com. This team supported 18,000 users.  
 *Special Projects*  
-Network Backbone Upgrade - Engineered, implemented, and managed a redundant Gigabit Ethernet and ATM backbone.  
-
-##Education  
-BS Computer Information Technology (In Progress) - Southern New Hampshire University  
+Network Backbone Upgrade - Engineered, implemented, and managed a redundant Gigabit Ethernet and ATM backbone.   
 
 ##Certifications  
 [Red Hat Certified Engineer 11-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515)  
