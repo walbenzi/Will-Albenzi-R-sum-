@@ -1,5 +1,5 @@
 #William Albenzi - Linux Systems Architect
-<will@albenzi.com>, 603-508-7512, <http://albenzi.com>, <http://www.linkedin.com/in/walbenzi>, 17 National Street, Nashua, NH 03060
+<walbenzi@gmail.com>, 603-508-7512, <http://albenzi.com>, <http://www.linkedin.com/in/walbenzi>, 17 National Street, Nashua, NH 03060
 
 ##Technical Skills
 + **Linux Distributions:** RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
