@@ -52,3 +52,5 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 [CompTIA Network+ Verification Code LPC8Z18D3PQ1CZLG](https://www.certmetrics.com/comptia/public/verification.aspx)  
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
 Past Certifications include: CCNA, MCP, CISSP  
+
+
