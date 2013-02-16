@@ -23,7 +23,9 @@ webdirectory="/var/www/html/"
 #change the filename because pandoc chokes on special characters.
 mv Will_Albenzi*.md Albenzi.md
 
-#TODO: Version the files
+#Version the files
+cat Will_Albenzi_Résumé.md | sed -e 's/JENKINS_BUILD_NUMBER/$BUILD_NUMBER/' > Will_Albenzi_Résumé.md.new
+mv Will_Albenzi_Résumé.md.new Will_Albenzi_Résumé.md
 
 #TODO: Add link to where each of the files will be after the build
 
