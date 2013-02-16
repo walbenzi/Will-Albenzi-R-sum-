@@ -53,4 +53,6 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
 Past Certifications include: CCNA, MCP, CISSP  
 
-
+##Albenzi.com
+Resumes on [albenzi.com](http://albenzi.com) automatically built by [Jenkins](albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).
+[PDF](http://albenzi.com/Albenzi.pdf)
