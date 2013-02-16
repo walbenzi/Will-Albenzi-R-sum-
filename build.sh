@@ -24,7 +24,7 @@ webdirectory="/var/www/html/"
 mv Will_Albenzi*.md Albenzi.md
 
 #Version the files
-cat Will_Albenzi_Résumé.md | sed -e 's/JENKINS_BUILD_NUMBER/$BUILD_NUMBER/' > Will_Albenzi_Résumé.md.new
+cat Will_Albenzi_Résumé.md | sed -e s/JENKINS_BUILD_NUMBER/$BUILD_NUMBER/ > Will_Albenzi_Résumé.md.new
 mv Will_Albenzi_Résumé.md.new Will_Albenzi_Résumé.md
 
 #TODO: Add link to where each of the files will be after the build
@@ -40,6 +40,10 @@ done
 #If the Linux Systems Architect position is not listed, do not copy to live website.
 if ! grep "<p><strong>Linux Systems Architect" index.html; then
    die "We are missing an element that is required in index.html  The whole thing is suspect.  Do nothing more."
+fi
+
+if grep "JENKINS_BUILD_NUMBER" index.html; then
+   die "We failed to substitute the build number properly in the file.  No copying"
 fi
 
 #Copy the files to a location they can be used.
