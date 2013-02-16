@@ -54,5 +54,5 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 Past Certifications include: CCNA, MCP, CISSP  
 
 ##Albenzi.com
-Resumes on [albenzi.com](http://albenzi.com) automatically built by [Jenkins](albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).
+Resumes on [albenzi.com](http://albenzi.com) automatically built by [Jenkins](albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
 [PDF](http://albenzi.com/Albenzi.pdf)
