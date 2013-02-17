@@ -24,8 +24,8 @@ webdirectory="/var/www/html/"
 mv Will_Albenzi*.md Albenzi.md
 
 #Version the files
-cat Will_Albenzi_Résumé.md | sed -e s/JENKINS_BUILD_NUMBER/$BUILD_NUMBER/ > Will_Albenzi_Résumé.md.new
-mv Will_Albenzi_Résumé.md.new Will_Albenzi_Résumé.md
+cat Albenzi.md | sed -e s/JENKINS_BUILD_NUMBER/$BUILD_NUMBER/ > Albenzi.md.new
+mv Albenzi.md.new Albenzi.md
 
 #TODO: Add link to where each of the files will be after the build
 
