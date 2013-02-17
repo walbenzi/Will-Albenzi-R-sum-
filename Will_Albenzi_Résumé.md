@@ -55,7 +55,7 @@ Past Certifications include: CCNA, MCP, CISSP
   
   
 
-Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
+Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](https://albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
 [PDF](Albenzi.pdf)  
 [DOCX](Albenzi.docx)  
 [EPUB](Albenzi.epub)  
