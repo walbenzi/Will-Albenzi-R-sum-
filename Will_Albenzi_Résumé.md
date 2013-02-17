@@ -52,5 +52,10 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 [CompTIA Network+ Verification Code LPC8Z18D3PQ1CZLG](https://www.certmetrics.com/comptia/public/verification.aspx)  
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
 Past Certifications include: CCNA, MCP, CISSP  
+  
+  
 
 Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
+[PDF](albenzi.com\Albenzi.pdf)  
+[DOCX](albenzi.com\Albenzi.docx)  
+[EPUB](albenzi.com\Albenzi.epub)  
