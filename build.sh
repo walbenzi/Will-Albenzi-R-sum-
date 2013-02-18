@@ -18,6 +18,17 @@ filetypelist="pdf docx epub"
 #web-directory
 webdirectory="/var/www/html/"
 
+###Initial Tests and corrections
+#If we are not running on Jenkins, then $BUILD_NUMBER will not be populated.  It is probably on a dev machine for some reason.
+if [[ -z $BUILD_NUMBER ]]; then
+   BUILD_NUMBER=1
+fi
+
+#Check for pandoc
+pandoc_location=`which pandoc`
+if [[ ! -e $pandoc_location ]]; then
+   die "pandoc does not seem to exist"
+fi
 
 ###Program
 #change the filename because pandoc chokes on special characters.
@@ -33,7 +44,7 @@ mv Albenzi.md.new Albenzi.md
 pandoc Albenzi.md -o index.html
 for filetype in $filetypelist; do
    echo "pandoc Albenzi.md -o Albenzi.$filetype"
-   pandoc Albenzi.md -o Albenzi.$filetype
+   pandoc Albenzi.md -o Albenzi.$filetype || die "There were errors building Albenzi.$filetype"
 done
 
 #Testing.
