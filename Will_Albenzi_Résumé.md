@@ -48,7 +48,7 @@ Led a small team which managed 15 Central Offices with heterogeneous equipment i
 Network Backbone Upgrade - Engineered, implemented, and managed a redundant Gigabit Ethernet and ATM backbone.   
 
 ##Certifications  
-[Red Hat Certified Engineer 11-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515)  
+[Red Hat Certified Engineer 111-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515&isSearch=False&verify=Verify)  
 [CompTIA Network+ Verification Code LPC8Z18D3PQ1CZLG](https://www.certmetrics.com/comptia/public/verification.aspx)  
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
 Past Certifications include: CCNA, MCP, CISSP  
