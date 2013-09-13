@@ -14,9 +14,9 @@
 **Senior DevOps Engineer -** *24 Hour Fitness, March 2013 - Current*
 Provided support for Business Critical applications as needed.  This included but was not limited to web applications, enterprise messaging, and financial transaction systems.
 *Special Projects*
-Chef Infrastructure - 
-Continuous Delivery System -
-QA -
+Chef Infrastructure -   
+Continuous Delivery System -   
+QA -   
 
 **Linux Systems Architect -** *Fresenius Medical Care, June 2011 – Current*  
 Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines, which provide 21.5 million treatments per year. Designed the systems to automatically produce and test the work as it was being done.  
