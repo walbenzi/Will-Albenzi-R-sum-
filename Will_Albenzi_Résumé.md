@@ -11,8 +11,8 @@
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ##Experience
-**Senior DevOps Engineer -** *24 Hour Fitness, March 2013 - Current*
-Provided support for Business Critical applications as needed.  This included but was not limited to web applications, enterprise messaging, and financial transaction systems.
+**Senior DevOps Engineer -** *24 Hour Fitness, March 2013 - Current*   
+Provided support for Business Critical applications as needed.  This included but was not limited to web applications, enterprise messaging, and financial transaction systems.   
 *Special Projects*     
 Chef Infrastructure -   
 Continuous Delivery System -   
