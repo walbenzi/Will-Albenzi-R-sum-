@@ -14,9 +14,9 @@
 **Senior DevOps Engineer -** *24 Hour Fitness, March 2013 – Current*   
 Provided support for Business Critical applications as needed.  This included but was not limited to web applications, enterprise messaging, and financial transaction systems.   
 *Special Projects*     
-Chef Infrastructure -   
-Continuous Delivery System -   
-QA -   
+Configuration Management – Assisting in the implementation of Chef, including customization of ruby code to ensure all dependencies are met in a controlled fashion.  
+Build and Integration System – Advocate and Implement Jenkins CI server to automatically test F5 configurations and Chef recipes.
+Fixed bugs in the official Chef repository, and the fixes were accepted and merged into the code-base. 
 
 **Linux Systems Architect -** *Fresenius Medical Care, June 2011 – Current*  
 Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines, which provide 21.5 million treatments per year. Designed the systems to automatically produce and test the work as it was being done.  
