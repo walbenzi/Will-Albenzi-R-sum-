@@ -1,5 +1,5 @@
 #William Albenzi - Linux Systems Architect
-<walbenzi@gmail.com>, 603-508-7512, <http://albenzi.com>, <http://www.linkedin.com/in/walbenzi>, 4428 San Joaquin Street, Oceanside, CA
+<walbenzi@gmail.com>, 603-508-7512, <http://www.albenzi.com>, <http://www.linkedin.com/in/walbenzi>, 4428 San Joaquin Street, Oceanside, CA
 
 ##Technical Skills
 + **Linux Distributions:** RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
@@ -62,7 +62,7 @@ Past Certifications include: CCNA, MCP, CISSP
   
   
 
-Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](https://albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
+Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](https://www.albenzi.com) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
 [PDF](Albenzi.pdf)  
 [DOCX](Albenzi.docx)  
 [EPUB](Albenzi.epub)  
