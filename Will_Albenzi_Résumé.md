@@ -4,10 +4,11 @@
 ##Technical Skills
 + **Linux Distributions:** RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
 + **Windows OS:** Windows Server 2003 and 2008, Windows XP, Windows 7
-+ **Virtualization:** VMWare ESX, ESXi, VirtualBox, and VirtualPC
++ **RealTime OS:** QNX
++ **Virtualization:** VMWare ESX, ESXi, VirtualBox, VirtualPC, VMWare player
 + **Services:** DHCP, Active Directory, Free-IPA, LDAP, DNS/BIND, NFS, FTP, Samba, SMTP, CFEngine (versions 2 and 3) for Configuration Control, Nagios for System Monitoring, Syslog, SELinux
 + **Networking:** Cisco, Dell, HP, and Netgear switches and routers.
-+ **Build Environment Service:** Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion
++ **Build Environment Service:** Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion, Git
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ##Experience
