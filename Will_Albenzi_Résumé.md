@@ -11,14 +11,17 @@
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ##Experience
-**Senior DevOps Engineer -** *24 Hour Fitness, March 2013 – Current*   
+**Specialist -** *Medacuity Software, April 2014 - Current*
+Provided support to Medacuity customers as needed.  
+
+**Senior DevOps Engineer -** *24 Hour Fitness, March 2013 – April 2014*   
 Provided support for Business Critical applications as needed.  This included but was not limited to web applications, enterprise messaging, and financial transaction systems.   
 *Special Projects*     
 Configuration Management – Assisting in the implementation of Chef, including customization of ruby code to ensure all dependencies are met in a controlled fashion.  
 Build and Integration System – Advocate and Implement Jenkins CI server to automatically test F5 configurations and Chef recipes.
 Fixed bugs in the official Chef repository, and the fixes were accepted and merged into the code-base. 
 
-**Linux Systems Architect -** *Fresenius Medical Care, June 2011 – Current*  
+**Linux Systems Architect -** *Fresenius Medical Care, June 2011 – June 2014*  
 Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines, which provide 21.5 million treatments per year. Designed the systems to automatically produce and test the work as it was being done.  
 *Special Projects*  
 Build and Integration System – Advocate and Implement Jenkins CI server to automatically build code, remaster ISO files, spawn Virtual Machines from templates, to run integration tests against newly built code.  
