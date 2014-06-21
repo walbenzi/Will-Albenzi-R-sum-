@@ -13,7 +13,7 @@
 
 ##Experience
 **Specialist -** *Medacuity Software, April 2014 - Current*   
-Provided support to Medacuity customers as needed.  
+Providing Software Release and Infrastructure expertise as part of an elite team of consultants providing professional software product and services combining technical expertise, medical device/healthcare domain experience, and best practice approaches to help our customers accelerate and maximize the outcome of their strategic initiatives.
 
 **Senior DevOps Engineer -** *24 Hour Fitness, March 2013 – April 2014*   
 Provided support for Business Critical applications as needed.  This included but was not limited to web applications, enterprise messaging, and financial transaction systems.   
