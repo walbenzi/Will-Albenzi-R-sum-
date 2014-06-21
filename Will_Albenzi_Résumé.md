@@ -11,7 +11,7 @@
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ##Experience
-**Specialist -** *Medacuity Software, April 2014 - Current*
+**Specialist -** *Medacuity Software, April 2014 - Current*   
 Provided support to Medacuity customers as needed.  
 
 **Senior DevOps Engineer -** *24 Hour Fitness, March 2013 – April 2014*   
@@ -62,10 +62,4 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 [CompTIA Network+ Verification Code LPC8Z18D3PQ1CZLG](https://www.certmetrics.com/comptia/public/verification.aspx)  
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
 Past Certifications include: CCNA, MCP, CISSP  
-  
-  
 
-Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](https://www.albenzi.com) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
-[PDF](Albenzi.pdf)  
-[DOCX](Albenzi.docx)  
-[EPUB](Albenzi.epub)  
