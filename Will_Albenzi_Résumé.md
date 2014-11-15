@@ -1,5 +1,9 @@
 #William Albenzi - Linux Systems Architect
-<walbenzi@gmail.com>, 603-508-7512, <http://www.albenzi.com>, <http://www.linkedin.com/in/walbenzi>, 4428 San Joaquin Street, Oceanside, CA
+<walbenzi@gmail.com>  
+603-508-7512  
+<http://www.albenzi.com>  
+<http://www.linkedin.com/in/walbenzi>  
+20 Bigwood Drive, Merrimack, NH 03054
 
 ##Technical Skills
 + **Linux Distributions:** RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
