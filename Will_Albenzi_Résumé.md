@@ -66,5 +66,6 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 [Red Hat Certified Engineer 111-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515&isSearch=False&verify=Verify)  
 [CompTIA Network+ Verification Code LPC8Z18D3PQ1CZLG](https://www.certmetrics.com/comptia/public/verification.aspx)  
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
+FCC Amateur Radio License: KC1CTC  
 Past Certifications include: CCNA, MCP, CISSP  
 
