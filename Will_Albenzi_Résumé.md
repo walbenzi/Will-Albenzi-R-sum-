@@ -1,11 +1,11 @@
-#William Albenzi - Linux Systems Architect
+# William Albenzi - Linux Systems Architect
 <walbenzi@gmail.com>  
 603-508-7512  
 <http://www.albenzi.com>  
 <http://www.linkedin.com/in/walbenzi>  
 20 Bigwood Drive, Merrimack, NH 03054
 
-##Technical Skills
+## Technical Skills
 + **Linux Distributions:** RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
 + **Windows OS:** Windows Server 2003 and 2008, Windows XP, Windows 7
 + **RealTime OS:** QNX
@@ -15,7 +15,7 @@
 + **Build Environment Service:** Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion, Git
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
-##Experience
+## Experience
 **Specialist -** *Medacuity Software, April 2014 - Current*   
 Providing Software Release and Infrastructure expertise as part of an elite team of consultants providing professional software product and services combining technical expertise, medical device/healthcare domain experience, and best practice approaches to help our customers accelerate and maximize the outcome of their strategic initiatives.
 
@@ -62,7 +62,7 @@ Led a small team which managed 15 Central Offices with heterogeneous equipment i
 *Special Projects*  
 Network Backbone Upgrade - Engineered, implemented, and managed a redundant Gigabit Ethernet and ATM backbone.   
 
-##Certifications  
+## Certifications  
 [Red Hat Certified Engineer 111-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515&isSearch=False&verify=Verify)  
 [CompTIA Network+ Verification Code LPC8Z18D3PQ1CZLG](https://www.certmetrics.com/comptia/public/verification.aspx)  
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
