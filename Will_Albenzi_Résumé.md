@@ -1,18 +1,18 @@
-# William Albenzi - Linux Systems Architect
+# William Albenzi - Build/Test/Deploy Operations Engineer
 <walbenzi@gmail.com>  
 603-508-7512  
-<http://www.albenzi.com>  
 <http://www.linkedin.com/in/walbenzi>  
 20 Bigwood Drive, Merrimack, NH 03054
 
 ## Technical Skills
 + **Linux Distributions:** RedHat, CentOS, Fedora, Ubuntu, BackTrack and SUSE
-+ **Windows OS:** Windows Server 2003 and 2008, Windows XP, Windows 7
++ **Windows OS:** Windows Server NT 4.0 - Server 2016, Windows Desktop NT 4.0 - Windows 10
 + **RealTime OS:** QNX
 + **Virtualization:** VMWare ESX, ESXi, VirtualBox, VirtualPC, VMWare player
 + **Services:** DHCP, Active Directory, Free-IPA, LDAP, DNS/BIND, NFS, FTP, Samba, SMTP, CFEngine (versions 2 and 3) for Configuration Control, Nagios for System Monitoring, Syslog, SELinux
 + **Networking:** Cisco, Dell, HP, and Netgear switches and routers.
 + **Build Environment Service:** Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion, Git
++ **Languages:** Bash, Batch, Ruby, Python
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ## Experience
@@ -63,9 +63,8 @@ Led a small team which managed 15 Central Offices with heterogeneous equipment i
 Network Backbone Upgrade - Engineered, implemented, and managed a redundant Gigabit Ethernet and ATM backbone.   
 
 ## Certifications  
-[Red Hat Certified Engineer 111-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515&isSearch=False&verify=Verify)  
 [CompTIA Network+ Verification Code LPC8Z18D3PQ1CZLG](https://www.certmetrics.com/comptia/public/verification.aspx)  
 [NSA](http://www.nsa.gov/ia/programs/ia_training_and_rating_program/index.shtml) [IAM](http://www.isatrp.org/certified_list.php?w=IAM) and [IEM](http://www.isatrp.org/certified_list.php?w=IEM)  
 FCC Amateur Radio License: KC1CTC  
-Past Certifications include: CCNA, MCP, CISSP  
+Past Certifications include: CCNA, MCP, CISSP, [Red Hat Certified Engineer 111-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515&isSearch=False&verify=Verify)    
 
