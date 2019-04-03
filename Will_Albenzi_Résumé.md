@@ -1,4 +1,4 @@
-# William Albenzi - Build/Test/Deploy Operations Engineer
+# William Albenzi - Medical Devops Engineer
 <walbenzi@gmail.com>  
 603-994-0775  
 <http://www.linkedin.com/in/walbenzi>  
@@ -16,7 +16,7 @@
 + **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ## Experience
-**Specialist -** *Medacuity Software, April 2014 - Current*   
+**Specialist -** *Medacuity Software, April 2014 - March 2019*   
 Providing Software Release and Infrastructure expertise as part of an elite team of consultants providing professional software product and services combining technical expertise, medical device/healthcare domain experience, and best practice approaches to help our customers accelerate and maximize the outcome of their strategic initiatives.
 
 **Senior DevOps Engineer -** *24 Hour Fitness, March 2013 – April 2014*   
@@ -68,7 +68,7 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 FCC Amateur Radio License: KC1CTC  
 Past Certifications include: CCNA, MCP, CISSP, [Red Hat Certified Engineer 111-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515&isSearch=False&verify=Verify)    
 
-Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](https://www.albenzi.com) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
+Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](https://www.albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
 [PDF](Albenzi.pdf)  
 [DOCX](Albenzi.docx)  
 [EPUB](Albenzi.epub)  
