@@ -68,7 +68,7 @@ Network Backbone Upgrade - Engineered, implemented, and managed a redundant Giga
 FCC Amateur Radio License: KC1CTC  
 Past Certifications include: CCNA, MCP, CISSP, [Red Hat Certified Engineer 111-083-515](https://www.redhat.com/wapps/training/certification/verify.html?certNumber=111-083-515&isSearch=False&verify=Verify)    
 
-Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](https://www.albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
+Version 1.0.JENKINS_BUILD_NUMBER Resume Built by [Jenkins](http://www.albenzi.com:8080) which is monitoring [github](https://github.com/walbenzi/Will-Albenzi-R-sum-).  
 [PDF](Albenzi.pdf)  
 [DOCX](Albenzi.docx)  
 [EPUB](Albenzi.epub)  
