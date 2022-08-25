@@ -12,7 +12,7 @@
 + **Services:** DHCP, Active Directory, Free-IPA, LDAP, DNS/BIND, NFS, FTP, Samba, SMTP, CFEngine (versions 2 and 3) for Configuration Control, Nagios for System Monitoring, Syslog, SELinux
 + **Networking:** Cisco, Dell, HP, and Netgear switches and routers.
 + **Build Environment Service:** Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion, Git, Microsoft Devops Server
-+ ** Cloud Technology:** Microsoft Azure Cloud Environments
++ **Cloud Technology:** Microsoft Azure Cloud Environments
 + **Languages:** Bash, Batch, Ruby, Python
 
 ## Experience
