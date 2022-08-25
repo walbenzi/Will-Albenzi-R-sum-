@@ -17,7 +17,7 @@
 
 ## Experience
 **Senior Devops Engineer -** *Elbit Systems of America, April 2019 - Current*  
-Supported the Kollsman Manufacturing business unit by providing software development environments, business application support, and IT support. Assisted in the development of several medical products and helped with the implementation of Agile development practices.
+Supported the Kollsman Manufacturing business unit by providing software development environments, business application support, and IT support. Assisted in the development of several medical products and helped with the implementation of Agile development practices.  
 *Special Projects*  
 Several Medical Devices - As a contract manufacturer KMC works with many customers to help bring their products to market by providing expertise in development and manufacturing FDA regulated devices.  
 Migration to Microsoft Devops Server - Helped migrate from legacy services and utilities to Microsoft Devops Server, which utilizes git, agile workflows with policy enforcement, continuous integration and integration with third party quality improvement tools.  
