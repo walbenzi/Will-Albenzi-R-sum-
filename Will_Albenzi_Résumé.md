@@ -16,7 +16,7 @@
 + **Languages:** Bash, Batch, Ruby, Python
 
 ## Experience
-**Senior Devops Engineer-** *Elbit Systems of America, April 2019 - Current* 
+**Senior Devops Engineer -** *Elbit Systems of America, April 2019 - Current* 
 Supported the Kollsman Manufacturing business unit by providing software development environments, business application support, and IT support. Assisted in the development of several medical products and helped with the implementation of Agile development practices.
 *Special Projects*
 Several Medical Devices - As a contract manufacturer KMC works with many customers to help bring their products to market by providing expertise in development and manufacturing FDA regulated devices.
