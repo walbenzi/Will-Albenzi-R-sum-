@@ -1,5 +1,5 @@
 # William Albenzi - Medical Devops Engineer
-<walbenzi@gmail.com>  
+<Aill@albenzi.com>  
 603-966-0775  
 <http://www.linkedin.com/in/walbenzi>  
 20 Bigwood Drive, Merrimack, NH 03054
@@ -11,11 +11,18 @@
 + **Virtualization:** VMWare ESX, ESXi, VirtualBox, VirtualPC, VMWare player
 + **Services:** DHCP, Active Directory, Free-IPA, LDAP, DNS/BIND, NFS, FTP, Samba, SMTP, CFEngine (versions 2 and 3) for Configuration Control, Nagios for System Monitoring, Syslog, SELinux
 + **Networking:** Cisco, Dell, HP, and Netgear switches and routers.
-+ **Build Environment Service:** Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion, Git
++ **Build Environment Service:** Hudson/Jenkins (Continuous Integration), Blackduck (Automated Open Source License Compliance), Subversion, Git, Microsoft Devops Server
++ ** Cloud Technology:** Microsoft Azure Cloud Environments
 + **Languages:** Bash, Batch, Ruby, Python
-+ **Backups:** Symantec Backup Exec, HP Data Protector, AMANDA
 
 ## Experience
+**Senior Devops Engineer-** *Elbit Systems of America, April 2019 - Current* 
+Supported the Kollsman Manufacturing business unit by providing software development environments, business application support, and IT support. Assisted in the development of several medical products and helped with the implementation of Agile development practices.
+*Special Projects*
+Several Medical Devices - As a contract manufacturer KMC works with many customers to help bring their products to market by providing expertise in development and manufacturing FDA regulated devices.
+Migration to Microsoft Devops Server - Helped migrate from legacy services and utilities to Microsoft Devops Server, which utilizes git, agile workflows with policy enforcement, continuous integration and integration with third party quality improvement tools.
+Cloud Service Integration - Began the transition off of datacenter centered IT architecture towards utilizing cloud while maintaining compliance with the policies of our Department of Defense parent company.
+
 **Specialist -** *Medacuity Software, April 2014 - March 2019*   
 Providing Software Release and Infrastructure expertise as part of an elite team of consultants providing professional software product and services combining technical expertise, medical device/healthcare domain experience, and best practice approaches to help our customers accelerate and maximize the outcome of their strategic initiatives.
 
