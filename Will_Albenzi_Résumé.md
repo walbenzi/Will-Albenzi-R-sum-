@@ -18,10 +18,10 @@
 ## Experience
 **Senior Devops Engineer -** *Elbit Systems of America, April 2019 - Current*  
 Supported the Kollsman Manufacturing business unit by providing software development environments, business application support, and IT support. Assisted in the development of several medical products and helped with the implementation of Agile development practices.
-*Special Projects*
-Several Medical Devices - As a contract manufacturer KMC works with many customers to help bring their products to market by providing expertise in development and manufacturing FDA regulated devices.
-Migration to Microsoft Devops Server - Helped migrate from legacy services and utilities to Microsoft Devops Server, which utilizes git, agile workflows with policy enforcement, continuous integration and integration with third party quality improvement tools.
-Cloud Service Integration - Began the transition off of datacenter centered IT architecture towards utilizing cloud while maintaining compliance with the policies of our Department of Defense parent company.
+*Special Projects*  
+Several Medical Devices - As a contract manufacturer KMC works with many customers to help bring their products to market by providing expertise in development and manufacturing FDA regulated devices.  
+Migration to Microsoft Devops Server - Helped migrate from legacy services and utilities to Microsoft Devops Server, which utilizes git, agile workflows with policy enforcement, continuous integration and integration with third party quality improvement tools.  
+Cloud Service Integration - Began the transition off of datacenter centered IT architecture towards utilizing cloud while maintaining compliance with the policies of our Department of Defense parent company.  
 
 **Specialist -** *Medacuity Software, April 2014 - March 2019*   
 Providing Software Release and Infrastructure expertise as part of an elite team of consultants providing professional software product and services combining technical expertise, medical device/healthcare domain experience, and best practice approaches to help our customers accelerate and maximize the outcome of their strategic initiatives.
@@ -30,8 +30,8 @@ Providing Software Release and Infrastructure expertise as part of an elite team
 Provided support for Business Critical applications as needed.  This included but was not limited to web applications, enterprise messaging, and financial transaction systems.   
 *Special Projects*     
 Configuration Management – Assisting in the implementation of Chef, including customization of ruby code to ensure all dependencies are met in a controlled fashion.  
-Build and Integration System – Advocate and Implement Jenkins CI server to automatically test F5 configurations and Chef recipes.
-Fixed bugs in the official Chef repository, and the fixes were accepted and merged into the code-base. 
+Build and Integration System – Advocate and Implement Jenkins CI server to automatically test F5 configurations and Chef recipes.  
+Fixed bugs in the official Chef repository, and the fixes were accepted and merged into the code-base.  
 
 **Linux Systems Architect -** *Fresenius Medical Care, June 2011 – June 2014*  
 Redesigned the Ubuntu-based Linux distribution that is running on tens of thousands of dialysis machines, which provide 21.5 million treatments per year. Designed the systems to automatically produce and test the work as it was being done.  
